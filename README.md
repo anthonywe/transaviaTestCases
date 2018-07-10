@@ -1,13 +1,18 @@
-### transaviaTestCases
+## transaviaTestCases
 
-*As part of an assignment I have to make test cases to check some proposed changes in transavia website. 
+
+### Description
+*As part of my restart/network assignment I have to make test cases to check some proposed changes in transavia website. 
 Transavia has decided they require more information about their visitors to make informed decisions.
 To make sure this doesn’t impact conversions negatively, they decide to test the changes first.*
 
+
+### The main functionalities includ:
 Testidea 
 The test will run on 2 pages: The Personal Details page and the Hold Luggage page.
 
 https://www.transavia.com/nl-NL/boek-een-vlucht/passagiers/passagiersgegevens/
+
 
 On the Personal Details page, we will add 3 new input fields per passenger. The 3 new input fields will be added below the last option
 of the current form (After Mobile Phone Number). 
@@ -31,4 +36,8 @@ an extra seat if needed.”
 End product
 Your end product will be a single .js file. If this file is copy-pasted into the browser console on either the Personal Details page
 or the Hold Luggage page, the page is changed to reflect the test ideas described above.
+
+### Technology used
+
+* Javascript
 
