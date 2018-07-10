@@ -1,4 +1,4 @@
-# transaviaTestCases
+### transaviaTestCases
 
 *As part of an assignment I have to make test cases to check some proposed changes in transavia website. 
 Transavia has decided they require more information about their visitors to make informed decisions.
